@@ -1337,8 +1337,6 @@ AMU CONNECT is built around a **role-driven architecture**, ensuring that every 
 - Hostel allocation details
 - Notifications and academic alerts
   
-![Student](./student.png)
-
 ### Faculty View
 - Assigned courses and class lists
 - Attendance marking and validation
@@ -1346,8 +1344,6 @@ AMU CONNECT is built around a **role-driven architecture**, ensuring that every 
 - Student performance insights
 - Academic calendar integration
   
-![Professor](./professor.png)
-
 
 ### Admin View
 - University-wide dashboards
@@ -1356,11 +1352,7 @@ AMU CONNECT is built around a **role-driven architecture**, ensuring that every 
 - Compliance and reporting tools
 - Real-time analytics across departments
 
-![Admin](./admin.png)
-
 Each view is powered by the same centralized database but rendered through **secure, permission-controlled interfaces**, ensuring data privacy, clarity, and operational efficiency.
-
-![AMU CONNECT – Role-Based Multiple Views](./multiple_views.png)
 
 ## Student Features
 
@@ -1388,8 +1380,6 @@ Upon successful admission, the system automatically generates:
 ### 2. Academic Management
 
 Comprehensive tools for managing the academic journey:
-
-![AMU CONNECT – Student Life-Cycle Flow](./Student%20Life-Cycle%20Flow%20in%20AMU%20StudySphere.png)
 
 #### Course Registration
 - **Semester-wise Registration**: Easy registration for courses each semester
@@ -1673,8 +1663,6 @@ Detailed enrollment data and analysis:
 
 ## AI-Powered Features
 
-![AI-Assisted Role-Based Intelligence (Conceptual)](./ai_conceptual.png)
-
 ### GPT-Powered Study Assistant
 
 The AI Study Assistant represents a significant innovation in academic support, leveraging the power of GPT to provide intelligent, context-aware assistance to students.
@@ -1757,8 +1745,6 @@ The AI assistant is powered by:
 At the core lies a unified life-cycle database, acting as the single source of truth for academic, administrative, and operational data. This eliminates redundancy across departments while enabling real-time synchronization of admissions, enrollment, attendance, examinations, fees, hostel management, and alumni records.
 
 The architecture is API-first and integration-ready, allowing seamless connectivity with external systems such as payment gateways, ERP platforms, and government services. Built with scalability, security, and data privacy in mind, AMU StudySphere is capable of supporting thousands of concurrent users while maintaining compliance with GDPR-like data protection standards.
-
-![AMU CONNECT – System Architecture](./universitry_systemarchitecture.png)
 
 ## High-Level Architecture
 
